@@ -1,0 +1,25 @@
+{
+  "name": "auth-jwt-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kishumumma/Auth-jwt-token.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kishumumma/Auth-jwt-token/issues"
+  },
+  "homepage": "https://github.com/kishumumma/Auth-jwt-token#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "nodemon": "^3.0.1"
+  }
+}
